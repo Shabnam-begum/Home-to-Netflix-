@@ -1,1 +1,1 @@
-# Home-to-Netflix-Here is the code for home to Netflix website. 
+# Home-to-Netflix-Here is the code for Homepage of Netflix website. 
